@@ -30,4 +30,5 @@ The dataset is publicly available at:
    git clone https://github.com/Prudhvirajrekula/Electric-Vehicle-DataAnalysis.git
 
 2. Install dependencies:
+   ```sh
    pip install pandas numpy matplotlib seaborn statsmodels keplergl wordcloud
