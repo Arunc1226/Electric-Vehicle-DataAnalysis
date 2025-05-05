@@ -27,7 +27,7 @@ The dataset is publicly available at:
 ## 📜 How to Run
 1. Clone this repository:
    ```sh 
-   git clone https://github.com/Prudhvirajrekula/Electric-Vehicle-DataAnalysis.git
+   git clone https://github.com/Arunc1226/Electric-Vehicle-DataAnalysis.git
 
 2. Install dependencies:
    ```sh
